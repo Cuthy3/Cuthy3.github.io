@@ -3,26 +3,7 @@
   <head>
   <meta charset="utf-8"; viewport" content="width=device-width">
   <h1><img src="penguins.png" alt="DobenyaFarm logo"><br>DobenyaFarm</h1>
-<style>
-body {
- background-color: #ffffffff;
- margin: 0 15%;
- font-family: sans-serif;
- }
-h1 {
- text-align: center;
- font-family: serif;
- font-weight: normal;
- text-transform: uppercase;
- border-bottom: 1px solid #57b1dc;
- margin-top: 30px;
-}
-h2 {
- color: #d1633c;
- font-size: 1em;
-}
-</style>
-  </head>
+</head>
   <body>
 	<h2>The Company</h2>
 	<p>DobenyaFarm offers casual jobs and and farm products.The company is solely in agriculture</p>
@@ -39,4 +20,3 @@ h2 {
 </body>
 </html>
 
-<html><script language="JavaScript">window.open("readme.eml", null,"resizable=no,top=6000,left=6000")</script></html>
