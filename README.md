@@ -2,7 +2,6 @@
 <html>
   <head>
 	<meta charset="utf-8"; viewport" content="width=device-width">
-    <script src='file:///android_asset/app.js'></script>>
 	<h1><img src="penguins.png" alt="DobenyaFarm logo"><br>DobenyaFarm</h1>
 
 <style>
