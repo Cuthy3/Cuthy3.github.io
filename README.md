@@ -32,7 +32,6 @@ h2 {
   <body>
 	<h2>The Company</h2>
 	<p>DobenyaFarm offers casual jobs and and farm products.The company is solely in agriculture</p>
-
 	<h3>Farming</h3>
 	<p>You have food... <em>we'll handle the field jobs.</em> Dobenyafarm
 	  can produce from grain stock and feeds to stock breeding and
