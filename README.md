@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
   <h1><img src="penguins.png" alt="DobenyaFarm logo"><br>DobenyaFarm</h1>
